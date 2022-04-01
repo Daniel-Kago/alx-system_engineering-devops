@@ -1,1 +1,2 @@
-#!/bin/bashnls-la . ../boot
+#!/bin/bash
+ls -a
